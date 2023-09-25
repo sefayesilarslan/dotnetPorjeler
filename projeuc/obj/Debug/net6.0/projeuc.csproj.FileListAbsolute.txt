@@ -1,0 +1,15 @@
+C:\pratikler\projeler\projeuc\bin\Debug\net6.0\projeuc.exe
+C:\pratikler\projeler\projeuc\bin\Debug\net6.0\projeuc.deps.json
+C:\pratikler\projeler\projeuc\bin\Debug\net6.0\projeuc.runtimeconfig.json
+C:\pratikler\projeler\projeuc\bin\Debug\net6.0\projeuc.dll
+C:\pratikler\projeler\projeuc\bin\Debug\net6.0\projeuc.pdb
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.csproj.AssemblyReference.cache
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.AssemblyInfoInputs.cache
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.AssemblyInfo.cs
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.csproj.CoreCompileInputs.cache
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.dll
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\refint\projeuc.dll
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.pdb
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\projeuc.genruntimeconfig.cache
+C:\pratikler\projeler\projeuc\obj\Debug\net6.0\ref\projeuc.dll

@@ -1,0 +1,15 @@
+C:\pratikler\projeler\projeiki\bin\Debug\net6.0\projeiki.exe
+C:\pratikler\projeler\projeiki\bin\Debug\net6.0\projeiki.deps.json
+C:\pratikler\projeler\projeiki\bin\Debug\net6.0\projeiki.runtimeconfig.json
+C:\pratikler\projeler\projeiki\bin\Debug\net6.0\projeiki.dll
+C:\pratikler\projeler\projeiki\bin\Debug\net6.0\projeiki.pdb
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.csproj.AssemblyReference.cache
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.AssemblyInfoInputs.cache
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.AssemblyInfo.cs
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.csproj.CoreCompileInputs.cache
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.dll
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\refint\projeiki.dll
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.pdb
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\projeiki.genruntimeconfig.cache
+C:\pratikler\projeler\projeiki\obj\Debug\net6.0\ref\projeiki.dll

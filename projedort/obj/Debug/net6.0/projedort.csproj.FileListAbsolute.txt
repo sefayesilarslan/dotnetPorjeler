@@ -1,0 +1,15 @@
+C:\pratikler\projeler\projedort\bin\Debug\net6.0\projedort.exe
+C:\pratikler\projeler\projedort\bin\Debug\net6.0\projedort.deps.json
+C:\pratikler\projeler\projedort\bin\Debug\net6.0\projedort.runtimeconfig.json
+C:\pratikler\projeler\projedort\bin\Debug\net6.0\projedort.dll
+C:\pratikler\projeler\projedort\bin\Debug\net6.0\projedort.pdb
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.csproj.AssemblyReference.cache
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.AssemblyInfoInputs.cache
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.AssemblyInfo.cs
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.csproj.CoreCompileInputs.cache
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.dll
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\refint\projedort.dll
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.pdb
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\projedort.genruntimeconfig.cache
+C:\pratikler\projeler\projedort\obj\Debug\net6.0\ref\projedort.dll
